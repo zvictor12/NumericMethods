@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "NumericMethods": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
